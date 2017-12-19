@@ -1,0 +1,28 @@
+{
+  "name": "brookgreen_friends",
+  "version": "1.0.0",
+  "description": "auction_manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChasCampbell/Brookgreen_Friends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChasCampbell/Brookgreen_Friends/issues"
+  },
+  "homepage": "https://github.com/ChasCampbell/Brookgreen_Friends#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "handlebars": "^4.0.11",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "sequelize": "^4.28.6",
+    "sequelize-cli": "^3.2.0"
+  }
+}
